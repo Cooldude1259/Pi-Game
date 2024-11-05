@@ -6,3 +6,5 @@ How to run:
 - Install by pressing Code -> Downlaod Zip
 - Unzip file
 - Run the program by double clicking it or another way specific to your device
+
+If there is a different way to do things, please help me out. I am pretty new in coding and especially in GitHub and open-source things. If you can make a contribution, that would be deeply appreciated!
